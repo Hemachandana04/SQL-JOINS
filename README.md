@@ -1,2 +1,2 @@
-# SQL-JOINS
-This project demonstrates basic SQLite database operations using Python. It includes creating tables (Customers, Orders), inserting records, and applying foreign key constraints to maintain referential integrity. The notebook  walks through database connection, schema creation, data insertion, and validation of relationships between tables.
+# SQL Database Operations
+A simple Task demonstrating SQLite database operations in Python. The notebook covers Creating tables (Customers, Orders)Inserting sample records Applying foreign key constraints Performing SQL queries with INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN to combine data meaningfully.
